@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://www.google.com/search?q=https://i.imgur.com/S8a1x2G.png" alt="Smart Email Assistant Banner" width="700"/>
-</p>
-
 <h1 align="center">🚀 Smart Email Assistant - AI Chrome Extension</h1>
 
 <p align="center">
